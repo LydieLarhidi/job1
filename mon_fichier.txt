@@ -1,3 +1,5 @@
 mon fichier
 
 git push --set-upstream origin ma_branche
+
+git reset -hard <>
